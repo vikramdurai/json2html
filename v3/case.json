@@ -1,0 +1,31 @@
+{
+    "body": [
+        {
+            "type": "h1",
+            "body": "Hello, world!"
+        },
+        {
+            "type": "p",
+            "body": "It works! FANTASTIC!"
+        },
+        {
+            "type": "div",
+            "attributes": [
+                {
+                    "attr_name": "class",
+                    "attr_data": "container"
+                }
+            ],
+            "body": [
+                {
+                    "type": "p",
+                    "body": "lorem ipsum"
+                },
+                {
+                    "type": "p",
+                    "body": "I am running out of dummy phrases."
+                }
+            ]
+        }
+    ]
+}
